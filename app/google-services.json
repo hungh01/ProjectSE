@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "635870825876",
+    "firebase_url": "https://projectse-bcafc-default-rtdb.firebaseio.com",
+    "project_id": "projectse-bcafc",
+    "storage_bucket": "projectse-bcafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635870825876:android:4e96a248249e46f2829381",
+        "android_client_info": {
+          "package_name": "com.example.projectse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4P_SWEqzsR9zN6sM5rHzkMUZZ_878NE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
