@@ -19,19 +19,18 @@
         app:layout_constraintTop_toTopOf="parent"
 
         />
-    <ImageView
-        android:rotation="180"
-        android:id="@+id/imageView_logoRays"
-        android:layout_width="130dp"
-        android:scaleType="centerInside"
-        android:layout_height="130dp"
-        android:layout_marginTop="80dp"
-        android:background="@drawable/icon2"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-
-        />
+<!--    <ImageView-->
+<!--        android:rotation="180"-->
+<!--        android:id="@+id/imageView_logoRays"-->
+<!--        android:layout_width="130dp"-->
+<!--        android:scaleType="centerInside"-->
+<!--        android:layout_height="130dp"-->
+<!--        android:layout_marginTop="80dp"-->
+<!--        android:background="@drawable/icon2"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        />-->
 
     <ImageView
         android:id="@+id/imageView_cloudLeft"

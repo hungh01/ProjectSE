@@ -54,6 +54,7 @@ public class RankingActivity extends AppCompatActivity {
                 }
                 //dao nguoc list
                 Collections.reverse(list);
+                System.out.println(list);
                 Top3point();
                 adapterRank.notifyDataSetChanged();
             }
@@ -75,9 +76,6 @@ public class RankingActivity extends AppCompatActivity {
             }
         });
 
-
-
-
     }
     private void AnhXa()
     {
@@ -93,8 +91,6 @@ public class RankingActivity extends AppCompatActivity {
         tvPointrank1.setText(String.valueOf(list.get(0).getPoint()));
         tvPointrank2.setText(String.valueOf(list.get(1).getPoint()));
         tvPointrank3.setText(String.valueOf(list.get(2).getPoint()));
-
-
     }
 
 }

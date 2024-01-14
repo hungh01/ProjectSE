@@ -16,7 +16,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="300dp"
-            android:background="#fece2f"
+            android:background="#307d9e"
             android:padding="20dp">
 
             <ImageView
@@ -71,6 +71,7 @@
                 <RelativeLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
+                    android:background="#d5d9dd"
                     android:padding="5dp">
 
                     <ImageView
@@ -86,7 +87,7 @@
                 android:layout_height="125dp"
                 android:layout_margin="10dp"
                 android:layout_weight="1"
-                app:cardBackgroundColor="#fece2f"
+                app:cardBackgroundColor="#d5d9dd"
                 app:cardElevation="10dp">
 
                 <RelativeLayout

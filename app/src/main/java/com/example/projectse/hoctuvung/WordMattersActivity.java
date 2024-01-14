@@ -50,7 +50,7 @@ public class WordMattersActivity extends AppCompatActivity {
     String URL = "https://github.com/Lap2000/songs/raw/main/Bay-Giua-Ngan-Ha-Nam-Cuong.mp3";
     String UL = "hello";
 
-    private String textAnswer = "SUNNYSKY";
+    private String textAnswer = "PresentEnglish";
     private int maxPresCounter = 0;
     private TextView textScreen, textQuestion, textTitle;
     private TextView tvWordCount, tvScore;

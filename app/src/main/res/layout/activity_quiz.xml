@@ -42,7 +42,6 @@
         android:textSize="20sp"
         app:drawableTint="@color/color_white"
         app:layout_constraintEnd_toEndOf="parent"
-
         app:layout_constraintTop_toTopOf="parent"></TextView>
 
     <TextView
